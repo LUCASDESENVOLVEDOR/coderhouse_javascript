@@ -1,2 +1,1 @@
-# coderhouse_javascript
-45465 - Javascript
+Turma de 12/09/2023 até 21/09/2023
